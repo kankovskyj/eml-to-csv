@@ -1,0 +1,6224 @@
+[
+  {
+    "element_id": "8f672276e8b9971baef1e26d73b6733f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1
+    },
+    "text": "Annual Report",
+    "type": "Title"
+  },
+  {
+    "element_id": "da6e2f539726fabd1f8cd7c9469a22b3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "8f672276e8b9971baef1e26d73b6733f"
+    },
+    "text": "2016",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "8f672276e8b9971baef1e26d73b6733f"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "parent_id": "8f672276e8b9971baef1e26d73b6733f"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "437aea62a5bd6ad4762e494c81b88532",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Contents",
+    "type": "Title"
+  },
+  {
+    "element_id": "938db8c9f82c8cb58d3f3ef4fd250036",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "437aea62a5bd6ad4762e494c81b88532"
+    },
+    "text": "01",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5dab502bfba3c3dfc2c9308a9f5cd3cf",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Partners",
+    "type": "Title"
+  },
+  {
+    "element_id": "c5c3959bafe6b432431b8c24de2d1656",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "5dab502bfba3c3dfc2c9308a9f5cd3cf"
+    },
+    "text": "/ 01 /",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a953f09a1b6b6725b81956e9ad0b1eb4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "5dab502bfba3c3dfc2c9308a9f5cd3cf"
+    },
+    "text": "02",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "221494e75fb6b4cc343ca4c7f6459b99",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Corporate Data",
+    "type": "Title"
+  },
+  {
+    "element_id": "d5156025f97181f9f85bb5a663c424ea",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "221494e75fb6b4cc343ca4c7f6459b99"
+    },
+    "text": "/ 02 /",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0b8efa5a3bf104413a725c6ff0459a6b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "221494e75fb6b4cc343ca4c7f6459b99"
+    },
+    "text": "03",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2ba36abe3254b81f5dec2ef1090cb427",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Director’s Statement",
+    "type": "Title"
+  },
+  {
+    "element_id": "fa2116839da138b5207e995b94295e09",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "/ 03 - 04 /",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "6cd5b6e51936a442b973660c21553dd2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "04",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a827d31d3ba1e9a97d24d2767a126409",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Financial Highlights",
+    "type": "Title"
+  },
+  {
+    "element_id": "b572e7c721db59d869797c335dc2530a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "a827d31d3ba1e9a97d24d2767a126409"
+    },
+    "text": "/ 05 - 06/",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c97550ce8213ef5cf6ed4ba48790c137",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "a827d31d3ba1e9a97d24d2767a126409"
+    },
+    "text": "05",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "1da33116478f0d3722cd53e8744c7caa",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "2016 Activity",
+    "type": "Title"
+  },
+  {
+    "element_id": "258417dd44512804eb14e1afc186ef7a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "1da33116478f0d3722cd53e8744c7caa"
+    },
+    "text": "/ 07 - 17 /",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "aacd834b5cdc64a329e27649143406dd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "1da33116478f0d3722cd53e8744c7caa"
+    },
+    "text": "06",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "3a345a7dbe0813c777d5be0bc0514ff7",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Independent Auditor’s Statement",
+    "type": "Title"
+  },
+  {
+    "element_id": "2d8cc31ccade7dfe5231292d51cc2708",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "3a345a7dbe0813c777d5be0bc0514ff7"
+    },
+    "text": "/ 18 /",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "19b100ab7725c612f3d80ff203ca53ce",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "3a345a7dbe0813c777d5be0bc0514ff7"
+    },
+    "text": "07",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0dbead2f6f19a8d64117ea48baa10a13",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Summary Financial Results",
+    "type": "Title"
+  },
+  {
+    "element_id": "f2132ced520ad139e5c1ab2a64e06293",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "0dbead2f6f19a8d64117ea48baa10a13"
+    },
+    "text": "/ 19 - 21 /",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "323783be9a53a31e158ec9600626a470",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "0dbead2f6f19a8d64117ea48baa10a13"
+    },
+    "text": "08",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "b450645debe2cf0a590edd7f78d36ecc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3
+    },
+    "text": "Contacts",
+    "type": "Title"
+  },
+  {
+    "element_id": "55274b21e129f639f576517c9c4a914d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "b450645debe2cf0a590edd7f78d36ecc"
+    },
+    "text": "/ 22 /",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f9749ad932a913a204ad2c02fdf24bc9",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "parent_id": "b450645debe2cf0a590edd7f78d36ecc"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6 A N N U A L R E P O R T & A C C O U N T S 2 0 1 3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "parent_id": "b450645debe2cf0a590edd7f78d36ecc"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5dab502bfba3c3dfc2c9308a9f5cd3cf",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4
+    },
+    "text": "Partners",
+    "type": "Title"
+  },
+  {
+    "element_id": "cde31fbfab670a93295a6b2e0a935366",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4
+    },
+    "text": "Jaroslav Haščák",
+    "type": "Title"
+  },
+  {
+    "element_id": "781c8d2d2c355bf95b5323ec82fa0416",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4
+    },
+    "text": "Eduard Maták",
+    "type": "Title"
+  },
+  {
+    "element_id": "a8bcfdc245cbfad5a8c9abe768ab78cf",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4
+    },
+    "text": "Marek Dospiva",
+    "type": "Title"
+  },
+  {
+    "element_id": "386b37e1f7fe6997d44ff053178f811f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4
+    },
+    "text": "Iain Child",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "parent_id": "386b37e1f7fe6997d44ff053178f811f"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ad877d5d5308047f1ebe1b50c5f378dd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4
+    },
+    "text": "Jozef Oravkin",
+    "type": "Title"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "parent_id": "ad877d5d5308047f1ebe1b50c5f378dd"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "221494e75fb6b4cc343ca4c7f6459b99",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Corporate Data",
+    "type": "Title"
+  },
+  {
+    "element_id": "1472eac07140e28d8daa3939b9a85856",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Corporate data of Penta Investments Limited",
+    "type": "Title"
+  },
+  {
+    "element_id": "7eaef8ad8e470d4c819a7cbeb4bfac2b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Company name: PENTA INVESTMENTS LIMITED",
+    "type": "Title"
+  },
+  {
+    "element_id": "d40b3562dcf86575763d4a2964e1d6a4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Principal activities: Holding and Trade of Investments in Shares and other Securities.",
+    "type": "Title"
+  },
+  {
+    "element_id": "8e05048164461a31d5ccd42e83305b34",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Registration number: 109645",
+    "type": "Title"
+  },
+  {
+    "element_id": "9122ba5723909efa27913b11e0de9d75",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Legal form: Private Company",
+    "type": "Title"
+  },
+  {
+    "element_id": "3e26ccdaaf5d62192b3d4fd8701a9e34",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "parent_id": "9122ba5723909efa27913b11e0de9d75"
+    },
+    "text": "Registered Office: 3rd Floor, Osprey House 5 / 7 Old Street St Helier JE2 3RG, Jersey Channel Islands",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "67d0d61c57e27c36befafee1a5cbade6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Share capital as at 31 December 2016: EUR 2,000,000",
+    "type": "Title"
+  },
+  {
+    "element_id": "5c691710e1c540f7cf8e1103bf15c5d0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Date of incorporation: 13 December 2011",
+    "type": "Title"
+  },
+  {
+    "element_id": "e9ad800bd3528bd1700e9cdb9836e220",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "parent_id": "5c691710e1c540f7cf8e1103bf15c5d0"
+    },
+    "text": "Number and class of shares in issue as at 31 December 2016: 1,000,000 Ordinary Shares; 1,000,000 Redeemable Shares",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "61605d512cbc1a6584a7be6a50ad1b6b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "parent_id": "5c691710e1c540f7cf8e1103bf15c5d0"
+    },
+    "text": "Nominal value per share: EUR 1 per Ordinary Share EUR 1 per Redeemable Share",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7f014640f95709aa8beaa405323173c1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Auditor: Deloitte LLP, Jersey, Channel Islands",
+    "type": "Title"
+  },
+  {
+    "element_id": "05d5735467bd7d32be86f823aec02dc1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5
+    },
+    "text": "Board of Directors: Radoslav Zuberec Frederick John Deacon Sophie Small",
+    "type": "Title"
+  },
+  {
+    "element_id": "ebdb0c08f039a127eadc1854541f9a4f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "parent_id": "05d5735467bd7d32be86f823aec02dc1"
+    },
+    "text": "The information on page 2 was derived from the audited annual and unqualified consolidated financial statements of Penta Investments Limited, which were approved by the Board of Directors on 23rd March 2017 and signed on its behalf by Mr Radoslav Zuberec. These summary financial statements do not contain sufficient information to allow a full understanding of the results and state of affairs of the group as would be provided by the full annual financial statements.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "parent_id": "05d5735467bd7d32be86f823aec02dc1"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "05d5735467bd7d32be86f823aec02dc1"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2ba36abe3254b81f5dec2ef1090cb427",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6
+    },
+    "text": "Director’s Statement",
+    "type": "Title"
+  },
+  {
+    "element_id": "dbab65e20732df838fbc036a772b9499",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Dear Shareholders and Business Partners,",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "13e9af592bbbbdbdf6c4f018d88348fa",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "I am delighted to present the Annual Report of Penta Investments Limited for the financial year 2016. During this period, Penta enjoyed one of its most successful years ever; one that saw a huge rise in profits and the appreciation of assets which exceeded expectations.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "51d0e8209d59c0e6119ef0160ca7bf0e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "We are pleased to report that, once again, thanks to organic growth supported by operational excellence and investment into the development of projects, the fair value of Penta Investments and its subsidiaries (the “Group”) has seen substantial growth.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "33d1cab83d21f59b985047023e518020",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "The consolidated total assets of the Group increased by 15.60% in 2016 to EUR 2,498 billion, and the Group’s profit rose by 25.28% to EUR 251 million.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "ac1ce7e3e4f66248208d0a834bd07295",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "We have seen strong results in a number of the Group’s core investments and an excellent performance from the real estate investment portfolio. The first half of 2016 saw the successful closing of the tender for sale of Smyk, a Polish subsidiary of the retail group Empik, which was also subject to major restructuring. This sale dramatically improved the value of Empik and positively influenced our 2016 results. The end of the year saw the widely reported and successful sale of Florentium, Penta’s first Czech office development, to the Chinese investor CEFC. We continued to follow our strategy to divest from our non-core assets with the sale of the premium pet food producer Gimborn and AB Facility Czech Republic and Slovakia.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "cfbc286fa82f01d61ac29535f19fc690",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Performance of our investment portfolio was supported by extensive investment, operational improvements and innovations. Penta finalised its acquisition of Sberbank Slovensko through its retail bank Prima banka and progressed with the plan to merge both banks which was achieved in 2017. At the end of 2016, Penta increased its exposure in the Slovakian media market with the acquisition of Namav, the 45% owner of the publishing house Petit Press which issues, among other things, the daily Sme and owns the news portal Sme.sk.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "86349b36d13e6df83d263b8f9879ae28",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Penta’s hospital investment continued to expand. After a 2-year-long preparation phase, Penta Hospitals CZ made its first acquisition in Czech Republic when it bought the hospital in Vrchlabí. Penta’s hospital investment in Slovakia, Svet Zdravia, succeeded in entering into a 20-year contract with self-governing region Nitra to use the hospital premises in Topoľčany. EMC, Penta’s Polish hospital investment, further strengthened its position by acquiring ACZ Group, the biggest outpatient care provider in Wrocław, the largest city in Western Poland.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "c64e8dad7ddc378918a1965853c6ac86",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Our real estate investment portfolio performed exceptionally in this period, with the sale of Florentinum which was Czech real estate’s top transaction of the year. The Group also registered an exceptional year in development activities, announcing, among other undertakings, the purchase of the Nusle Brewery brownfield site in Prague and a land plot near Vítězné náměstí, Prague. A number of developments were all successfully completed in 2016 and delivered to customers: office development Rosum in Bratislava, residential development Residence Waltrovka 1A in Prague and the townhouse development in Záhorské Sady, Bratislava.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "f935aa9ec696a303767b3519ecb800ed",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "During 2016 our real estate teams started construction in Prague on Waltrovka’s 3rd office development building, Dynamica, Košice office development, BCT2 in Slovakia and our first Warsaw office development, D48 in Mokotów.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "e477c026a84fe2f83486e5d3204894f4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D | A N N U A L R E P O R T & A C C O U N T S 2 0 1 3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ae5eeef83a02f76ab86fbe03797eab27",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Proud to employ 41,000+ staff",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "0163d3be1f4c837c3c9be9cc024afa14",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "The continued favourable residential market conditions in both Prague and Bratislava supported the start of the development of Waltrovka Residence II, a Czech residential project and the successful launch of sales of our prestigious Sky Park residential project and a new residential project, Bory Bývanie I, in the Western outskirts of Bratislava.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6ed39a17b77058a2a7b28e5b58e8cf1f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "The Group continued to move forward with its international expansion plans for its investments. At the end of 2016, Dr. Max entered the Serbian market with the acquisition of 15 pharmacies and a strong acquisition pipeline of 100+ pharmacies. Dr. Max is in the advanced stages of planning for market entry into additional European countries including Italy and Romania.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a3771f746978f9daff5ca5376282d203",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Fortuna continued extending its brand coverage and successfully entered the Romanian betting market under the Fortuna trademark with its purchase of 100% stake in Public Slots and Slot Arena, operating slot machines across Romania. Fortuna is on its transformational journey of becoming the leading regulated multi-channel, multi-product (sports betting and gaming) and multi-market operator in the Central and Eastern European region. This is further evidenced following the announcement made in Q1 2017 on the acquisition of Hattrick Sports Group Ltd, Ireland: the owner of the betting operator Casa Pariurilor in Romania PSK in Croatia and a joint venture partner in Luckia in Spain. The acquisition further strengthened Fortuna’s position in the Romanian market and has allowed Fortuna to enter the Croatia and Spanish market for the first time.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "163d6ca66ee32fa09cf3cdfb3f82f16c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Acknowledging the changing environment and ongoing digitalisation, Penta, after intensive preparations, responded to new trends by launching its digital initiative in investments with maximum potential: Dr. Max (pharmacies); Fortuna (betting); Dôvera (private health insurance) and Empik (retail).",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "ec7febfa7bdf3442a3702ac92595c04c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "We also remain strongly focused on our longer-term plans and will continue to focus on six platforms: healthcare, digital initiatives, retail, media, financial services and manufacturing, along with the divestment on non-core assets.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e629d725b85711b2eef426e592ad77bf",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "Penta is active in more than 10 European countries, and through the continued growth of our portfolio companies, the number of employees has grown to more than 41,000 thus creating value for both our investments and the communities where we operate.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8b25e5a1309223c50a9dc46dbd35befb",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "2ba36abe3254b81f5dec2ef1090cb427"
+    },
+    "text": "We would like to thank our employees for their commitment to Penta. We would also like to thank our shareholders and business partners for their continuing support, confidence and, above all, their trust.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4f75472109cf17b3916d5d33d9e1fa57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7
+    },
+    "text": "Radoslav Zuberec",
+    "type": "Title"
+  },
+  {
+    "element_id": "c149bc14e45c0d92e0adae72d5dfa10a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7
+    },
+    "text": "Director",
+    "type": "Title"
+  },
+  {
+    "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "c149bc14e45c0d92e0adae72d5dfa10a"
+    },
+    "text": "4",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "c149bc14e45c0d92e0adae72d5dfa10a"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a827d31d3ba1e9a97d24d2767a126409",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8
+    },
+    "text": "Financial Highlights",
+    "type": "Title"
+  },
+  {
+    "element_id": "3e3a59cfddfe05831dc17837d735610f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8
+    },
+    "text": "Consolidated Equity Attributable to Shareholders",
+    "type": "Title"
+  },
+  {
+    "element_id": "eaba2fc8b501189b8e9abfa2e0feab57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "3e3a59cfddfe05831dc17837d735610f"
+    },
+    "text": "2,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4610e5c36c9ae8b3435aceb3cd6ebfe0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "3e3a59cfddfe05831dc17837d735610f"
+    },
+    "text": "1,488",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5dab99502d84d688c04d8cc9cc4d6688",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8
+    },
+    "text": "(in EUR million)",
+    "type": "Title"
+  },
+  {
+    "element_id": "66dbae68e4f498ba668b52b481891465",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "1,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2b4e34ed0413d9f425d4026ebd5ca67b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2,500",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "56382fa34c568af784a8bde802b7f8c4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8
+    },
+    "text": "Consolidated Total Assets",
+    "type": "Title"
+  },
+  {
+    "element_id": "465d9f78c5cbed13e3e67434478910fc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "56382fa34c568af784a8bde802b7f8c4"
+    },
+    "text": "2,498",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5dab99502d84d688c04d8cc9cc4d6688",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8
+    },
+    "text": "(in EUR million)",
+    "type": "Title"
+  },
+  {
+    "element_id": "e0810be6a8e1006d387e0acfa70270d6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "1,500",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ef2d127de37b942baad06145e54b0c61",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "5",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f8db3b69feebf2d831473c83939346d6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "1,431",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "96da37e95d5cc34fe3bef6c89428df85",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2014",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f96a800bb948d96593784ab8e5aa134d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "1,912",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "96da37e95d5cc34fe3bef6c89428df85",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2014",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a4e75e93dc148c2fa3b1c16d73953447",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "1,391",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a85e9db4851f7cd3efb8db7bf69a07cf",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2015",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "51d8892d5193c63dfe7073e2949bab35",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2,161",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a85e9db4851f7cd3efb8db7bf69a07cf",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2015",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4610e5c36c9ae8b3435aceb3cd6ebfe0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "1,488",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "da6e2f539726fabd1f8cd7c9469a22b3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2016",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "465d9f78c5cbed13e3e67434478910fc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2,498",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "da6e2f539726fabd1f8cd7c9469a22b3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2016",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9513b567935e79d6fc51a5bbee21efeb",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9
+    },
+    "text": "Consolidated Profit Attributable to Shareholders",
+    "type": "Title"
+  },
+  {
+    "element_id": "c75d3f1f5bcd6914d0331ce5ec17c0db",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "9513b567935e79d6fc51a5bbee21efeb"
+    },
+    "text": "251",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5dab99502d84d688c04d8cc9cc4d6688",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9
+    },
+    "text": "(in EUR million)",
+    "type": "Title"
+  },
+  {
+    "element_id": "1e472b39b105d349bcd069c4a711b44a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "250",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "27badc983df1780b60c2b3fa9d3a19a0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "200",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9ae2bdd7beedc2e766c6b76585530e16",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "150",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ad57366865126e55649ecb23ae1d4888",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "100",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "1a6562590ef19d1045d06c4055742d38",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "50",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "e7f6c011776e8db7cd330b54174fd76f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "96da37e95d5cc34fe3bef6c89428df85",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2014",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ff5a1ae012afa5d4c889c50ad427aaf5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "70",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c75d3f1f5bcd6914d0331ce5ec17c0db",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "251",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "da6e2f539726fabd1f8cd7c9469a22b3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2016",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "27badc983df1780b60c2b3fa9d3a19a0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "200",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a85e9db4851f7cd3efb8db7bf69a07cf",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "2015",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "5dab99502d84d688c04d8cc9cc4d6688"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "1da33116478f0d3722cd53e8744c7caa",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10
+    },
+    "text": "2016 Activity",
+    "type": "Title"
+  },
+  {
+    "element_id": "a6efbc9248292f56ffca6406b3b00c2a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10
+    },
+    "text": "Acquisitions",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "a6efbc9248292f56ffca6406b3b00c2a"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "64130c45dedda95bb655ce1885780df1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10
+    },
+    "text": "Sberbank",
+    "type": "Title"
+  },
+  {
+    "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "64130c45dedda95bb655ce1885780df1"
+    },
+    "text": "4",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a1225b8c7b2eb8c3272e3812844c2742",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10
+    },
+    "text": "Fortuna",
+    "type": "Title"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "da5cb8edf01440d665e12ef90ec1cc96",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10
+    },
+    "text": "Media SK",
+    "type": "Title"
+  },
+  {
+    "element_id": "ef2d127de37b942baad06145e54b0c61",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "da5cb8edf01440d665e12ef90ec1cc96"
+    },
+    "text": "5",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c268232c0a108222924c6a730d7be3a9",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10
+    },
+    "text": "Hospitals",
+    "type": "Title"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "c268232c0a108222924c6a730d7be3a9"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4b302d93c3ef1b1cb6052dcef142c273",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10
+    },
+    "text": "Learning Systems Poland",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9a880073362d2e57f0ccff30e01fcb4d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "Prima banka Slovensko, acquired a 99.5% stake in Sberbank Slovensko to further consolidate its position in the Slovakian retail banking sector just before the year end 2015. However, the acquisition was subject to approval from the National Bank of Slovakia and the European Central Bank. All necessary approvals from both banking regulatory authorities were granted in July 2016, and the acquisition was successfully closed. By the end of 2016 Penta owned a total of 99.72% of the shares in Sberbank Slovensko.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f33d6b6502c1dfa4f9dd297864f9cd69",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "In November 2016, Penta acquired a 100% stake in the company Namav, which in turn was the 45% shareholder of Petit Press, an influential Slovakian publishing house. Its printed portfolio includes daily newspaper Sme and more than 30 central and regional periodicals with a weekly circulation of more than 545,000 copies. Its digital media products include the number one news portal Sme.sk.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4e0894516ff4d0c11e4e3fecf9209c8d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "The Group further strengthened its position in the Slovakian media market by acquiring 40% of United Classifieds which operates a wide range of online products in the field of general advertising with a focus on the real estate and automotive market. Its products are among the top online services in Slovakia.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2aa1a2a947b0d8618b07dabb5190dff5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "Penta closed the acquisition of Learning Systems Poland from Empik, already partially owned by Penta, at the beginning of January 2016. The company, which offers language courses across Poland, CEE and a number of other countries, became subject to a major restructuring effort in 2016 and this continued in 2017.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "7902699be42c8a8e46fbbb4501726517",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "7",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "4",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "da16a4a2f69e1cda4ba4a52898e92788",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "Penta acquired 100% of Public Slots in December 2016, which has a Romanian National Gaming license to operate slot machines in Romania. The acquisition was subject to anti-monopoly approval from the Romanian authorities, which was granted in December 2016 and the acquisition was successfully closed.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "ef2d127de37b942baad06145e54b0c61",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "5",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c31e83a4f682da3f1c4009539e374ebd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "Czech Republic hospitals In July 2016, Penta’s newly established Czech hospital investment, Penta Hospitals CZ, purchased Nemocnice Vrchlabí, a hospital located in the heart of a very attractive tourist mountain resort, Krkonoše. It provides medical services including outpatient services, specialised care for anaesthesiology and resuscitation, gastrointestinal disorder medicine, surgery, rehabilitation and after care.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8345efc3ef92d9f7d9915148a458baf4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "Slovak Republic hospitals - Svet Zdravia Since spring 2016, Svet Zdravia has provided hospital services in the Slovakian region, Topoľčany. The company entered into a 20-year, long-term contract with the self-governing region of Nitra in order to use hospital premises in Topoľčany. This provides opportunities to utilise potential synergies with the Penta-owned hospital in the nearby town of Partizánske. With this acquisition, Svet Zdravia’s hospital portfolio grew to 17, thus underlining Penta’s role as that of a prominent health care provider in Slovakia.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d9fcc4d947d218c98be0ef963f51a2b8",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "Polish hospitals - EMC Penta’s Polish hospital investment EMC, the largest Polish owner of hospitals and outpatient clinics in the market of private medical services, enhanced its outpatient portfolio by the acquisition of ACZ Group, the biggest outpatient care provider in Wroclaw. The acquistion was made in accordance with EMC’s strategy aimed at developing a model of treatment tailored to meet each patient’s needs: GP visits, specialist consulations, full diagnostics, hospital treatment and care for the elderly in specialised centres or in patients’ homes. In addition, based on past experience in the takeover of hospitals and outpatient clinics, EMC has recognised the opportunity to expand its medical activity, optimise company costs in management and administration as well as utilising synergies within EMC. This strategy will allow EMC to strengthen its market position in Wroclaw and to further develop revenue and cost synergies within that portfolio.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "2c624232cdd221771294dfbb310aca00",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "8",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "4b302d93c3ef1b1cb6052dcef142c273"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9b4f96c80d712cb0d19acce77906ac03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12
+    },
+    "text": "Disposals",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "9b4f96c80d712cb0d19acce77906ac03"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "06369718a7f2896c3d089bb7ebc22b08",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12
+    },
+    "text": "Smyk",
+    "type": "Title"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "06369718a7f2896c3d089bb7ebc22b08"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "18dab728449e13d333d537176ebb7e13",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12
+    },
+    "text": "Gimborn",
+    "type": "Title"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "18dab728449e13d333d537176ebb7e13"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f5b3751801c1097b0b4f0e5c2dbb56b4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12
+    },
+    "text": "AB Facility",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ae2aae389497ff6920f0d798b443fb32",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "The sale of Smyk, the leading Polish and German retailer of children’s clothes, toys and accessories was successfully finalised in 2016, this contributed to a dramatic improvement of Empik’s financial results.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "542e86cd8ef987069b729333d9c52d6f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "German-based Gimborn Holding, which develops, manufactures and markets premium pet snacks and treats, was sold to a long-term investor, Hillhouse Capital Management in September 2016. The sale was part of Penta’s strategy to divest its non-core assets. The company’s CEE retail business, consisting of 120 shops, had already been separated from the Gimborn core business and was sold in 2014.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d5b7654036dc75e588e4c1b82712c14d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "Another divestment of non-core assets was the sale of Czech and Slovakian utility investment AB Facility to strategic investor Atalian. The transaction was agreed at the end of 2016 and was completed in February 2017. The Polish utility investment was retained.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "19581e27de7ced00ff1ce50b2047e7a5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "9",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "parent_id": "f5b3751801c1097b0b4f0e5c2dbb56b4"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "02400002053a59d63074ff7bae7e9c61",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13
+    },
+    "text": "Restructuring",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "parent_id": "02400002053a59d63074ff7bae7e9c61"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ecce666143f69c86cebd7814b6da65a6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13
+    },
+    "text": "Empik Media & Fashion (“Empik”)",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "parent_id": "ecce666143f69c86cebd7814b6da65a6"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "b3076496448536405a8524773e659562",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "parent_id": "ecce666143f69c86cebd7814b6da65a6"
+    },
+    "text": "Penta took a strategic decision to substantially increase its share of ownership in Empik, a retail group listed on the Warsaw Stock Exchange, at the end of 2015. 2016 was marked by a continuous effort to buy shares from all the other shareholders. The buyout was accompanied by a major restructuring of the whole Empik group. As a result of this endeavour, Penta achieved full ownership of Empik in 2016. The structure was simplified and management of Empik improved the financial position of the company.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4a44dc15364204a80fe80e9039455cc1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "parent_id": "ecce666143f69c86cebd7814b6da65a6"
+    },
+    "text": "10",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "ecce666143f69c86cebd7814b6da65a6"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "358ac51bc78aacffcc6d0e3ec9bac522",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14
+    },
+    "text": "Real Estate Acquisitions",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "358ac51bc78aacffcc6d0e3ec9bac522"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7f9fde39122c7e04bc4de03436f2d87d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14
+    },
+    "text": "Churchill Square",
+    "type": "Title"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "7f9fde39122c7e04bc4de03436f2d87d"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "cc8c29be82d4517dbb960aff156ef266",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14
+    },
+    "text": "Nusle Brewery",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "cc8c29be82d4517dbb960aff156ef266"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "928a3b9c869d203b08e0f82588b4a6a1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "cc8c29be82d4517dbb960aff156ef266"
+    },
+    "text": "In September 2016, Penta acquired 100% ownership of Cypriot company Wilsonova Development Holdings Limited from private British investors. The company has a 33% share of the land plot located between Italská Street and the main train station in Prague. The remaining 67% share is held by the Czech Railway and SUDOP. Penta is preparing a commercial development of 29,600 sqm in a joint venture with SUDOP.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "cc8c29be82d4517dbb960aff156ef266"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "6edeab45b511ad83de60153f9b72d6a6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "cc8c29be82d4517dbb960aff156ef266"
+    },
+    "text": "In November 2016, Penta purchased Nusle Developer, the owner of a 5,225 sqm brownfield land plot on an historical brewery production site, close to Prague city centre. The plan is to redevelop the site into 400 units of residential property and sensitively refurbish a listed 17th-century brewery building. The development will house office and retail space and the entire area will change its appearance and be returned to its historic roots.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4fc82b26aecb47d2868c4efbe3581732",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "parent_id": "cc8c29be82d4517dbb960aff156ef266"
+    },
+    "text": "11",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "cc8c29be82d4517dbb960aff156ef266"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c2001bd7699a1f781bef13d18aedd6c2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15
+    },
+    "text": "Real Estate Disposals",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "c2001bd7699a1f781bef13d18aedd6c2"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "22000e63f28d382259b8ec473b1644c2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15
+    },
+    "text": "Florentinum",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "22000e63f28d382259b8ec473b1644c2"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "78e567f3b92cc270f581cfa57f6e065e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "22000e63f28d382259b8ec473b1644c2"
+    },
+    "text": "In late December 2016, Penta completed the sale of Florentinum, an A–class office development in the centre of Prague, to the Chinese investment group CEFC. Florentinum, an LEED platinum-certified property, opened in 2014 and is home to 70 long-term tenants, many of them blue chip companies such as EY, HSBC Bank, Bank of China as well as Havel Holásek & Partners Law Firm, RSJ Investment Group and Penta Investments (Czech Republic). Florentinum was Penta’s first property development in Prague and the successful sale was carried out through public tender which attracted the attention of a substantial number of investors and which was the largest Czech property transaction in 2016.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6b51d431df5d7f141cbececcf79edf3d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "22000e63f28d382259b8ec473b1644c2"
+    },
+    "text": "12",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "22000e63f28d382259b8ec473b1644c2"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c818a65c5714012f71daac89681aed73",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16
+    },
+    "text": "Real Estate Developments",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "c818a65c5714012f71daac89681aed73"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "48d24bf55a0dfc829212c51caeb81ad1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16
+    },
+    "text": "Sky Park",
+    "type": "Title"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "48d24bf55a0dfc829212c51caeb81ad1"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ce3b2f836f0b53ae591d67886a38b2c3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16
+    },
+    "text": "Waltrovka",
+    "type": "Title"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "ce3b2f836f0b53ae591d67886a38b2c3"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f97f2bb4038bc2aaeebe5019860650ec",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16
+    },
+    "text": "Bory Bývanie",
+    "type": "Title"
+  },
+  {
+    "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "f97f2bb4038bc2aaeebe5019860650ec"
+    },
+    "text": "4",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "685b42bc0f948bedd76e691c3dd4aebd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16
+    },
+    "text": "Rosum",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0da6ba20fdbcce25f514647612f48405",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "In December 2016, Sky Park, officially launched its first stage, consisting of three 30-storey residential towers, offering more than 700 apartments, 1,100 underground parking spaces and 2,000 sqm of high quality amenities. Completion of the project is expected in late 2019, and the sale of apartments in 2016 exceeded expectations.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8222bca285ad700dc27eff6c2f2b262e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "Designed by world-renowned architectural studio Zaha Hadid Architects, the project is a unique multi- purpose development in the vicinity of Bratislava’s city centre. The project sees the redevelopment of a 5.5-hectare ex-industrial zone and offers a minimal built-up area with a 20,000 sqm city park. It has two stages, the first being the residential development and the second, the construction of two administrative buildings with total rentable area of 55,000 sqm. The commencement of the second stage will depend on the receipt of construction permits.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0993317d095bb9db22b0390a244feb5b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "After obtaining all construction permits Bory Bývanie launched its first stage in which 340 apartments in low-rise residential units will be constructed. Sales of the first 169 apartments successfully commenced in July 2016.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "257f98d0fed68b909c05de3e8e7148c6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "Bory Bývanie is a residential project in the Western outskirts of Bratislava in close proximity to Penta’s shopping mall – Bory Mall. Upon completion, the project will provide affordable housing in a modern architectural style, with a high percentage of green areas and amenities.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "3fdba35f04dc8c462986c992bcf87554",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "13",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "253030dbe514ce907bdb3ca6bfa4af69",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "685b42bc0f948bedd76e691c3dd4aebd"
+    },
+    "text": "Waltrovka is Penta’s brownfield project in Prague 5, at the site of a former aviation engine factory. Penta is redeveloping the area into a mixed development with residential, office retail and recreational zones, thus creating a new contemporary town quarter.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "93765dd2125ce60e7cd7f0862988e826",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17
+    },
+    "text": "a. Waltrovka Residence",
+    "type": "Title"
+  },
+  {
+    "element_id": "9dbff38b10c276c7126ae0117f48d090",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "93765dd2125ce60e7cd7f0862988e826"
+    },
+    "text": "After the successful first phase, 257 apartments and 34 houses have been completed and sold. The project has now entered its second phase, which will see 272 apartments, 13 houses and 6 retail units with parking spaces.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d4f0526504df15357065d2a6725ad5e6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17
+    },
+    "text": "b. Waltrovka Dynamica",
+    "type": "Title"
+  },
+  {
+    "element_id": "e0a88606df5470b12475ed93631d2251",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "d4f0526504df15357065d2a6725ad5e6"
+    },
+    "text": "Penta progressed with the construction of the last of three office developments, having already delivered Aviatica and Mechanica; Dynamica is due for completion in Spring 2018 and will add a further 17,000 sqm to the Waltrovka office development.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "d4f0526504df15357065d2a6725ad5e6"
+    },
+    "text": "4",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7f6119e38c4e339a053fa156daf23f15",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "d4f0526504df15357065d2a6725ad5e6"
+    },
+    "text": "Rosum’s contemporary office development complex was completed and delivered to tenants in the last quarter of 2016.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d9d1ba72e7dfde17c6f35d1ca4bc7b20",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "d4f0526504df15357065d2a6725ad5e6"
+    },
+    "text": "The project is located in the wider centre of Bratislava and, in addition to office space, also provides retail units and services for tenants.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8527a891e224136950ff32ca212b45bc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "parent_id": "d4f0526504df15357065d2a6725ad5e6"
+    },
+    "text": "14",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "d4f0526504df15357065d2a6725ad5e6"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9d7cd8c31a4404d9ef01010c57a45471",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18
+    },
+    "text": "International Expansion of Investments",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "9d7cd8c31a4404d9ef01010c57a45471"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "cd19dc4751d9cdaad4eb1daac7ac477d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18
+    },
+    "text": "Dr. Max",
+    "type": "Title"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "cd19dc4751d9cdaad4eb1daac7ac477d"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a1225b8c7b2eb8c3272e3812844c2742",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18
+    },
+    "text": "Fortuna",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "ddaaf7f6c2595eeed14ec9e57b261d1c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "A leader among pharmacies in the Central European region with a large potential for further growth, Dr. Max entered the Serbian market in 2016. To date, it has a total of 1,053 pharmacies and another 140 are currently being settled.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "73e0ccf36790e48bc9221d958b718a5a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "Dr. Max started planning its expansion into Romania, Italy and Serbia.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7f1cd39fdee2617aa6c2a8f383ac76f2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "In the Central European region, Fortuna is the number one betting and gaming operator with 1.5 million unique active players, 2,300 branches, and a top online platform. Fortuna entered the Romanian market in 2016. Acquistion of Hattrick Group in Q1 2017 further strengthened its position in Romania and opened entry into the Croatian and Spanish markets.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e629fa6598d732768f7c726b4b621285",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "15",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "a1225b8c7b2eb8c3272e3812844c2742"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "01e22fa7233ec2ef7d06906ec8ce6123",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "International Expansion",
+    "type": "Title"
+  },
+  {
+    "element_id": "c7bf015ad98ca9d54ad9f0fc39ddfef8",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "Digital Initiatives",
+    "type": "Title"
+  },
+  {
+    "element_id": "2d59936701769980afd663c2adf2a319",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "of Investments",
+    "type": "Title"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "2d59936701769980afd663c2adf2a319"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "2d59936701769980afd663c2adf2a319"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "cd19dc4751d9cdaad4eb1daac7ac477d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "Dr. Max",
+    "type": "Title"
+  },
+  {
+    "element_id": "7ada3a0eeff52698247759c764ff5f9a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "Dôvera",
+    "type": "Title"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "7ada3a0eeff52698247759c764ff5f9a"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "7ada3a0eeff52698247759c764ff5f9a"
+    },
+    "text": "4",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a1225b8c7b2eb8c3272e3812844c2742",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "Fortuna",
+    "type": "Title"
+  },
+  {
+    "element_id": "ece2eec500a07493cc46b3ee831b6dbe",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "Empik",
+    "type": "Title"
+  },
+  {
+    "element_id": "1bb6efaf128182fcb1f738225ca36061",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "ece2eec500a07493cc46b3ee831b6dbe"
+    },
+    "text": "The strategic drive to focus effort on those investments that provide the maximum potential has led to the development of a number of digital initiatives including:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "ece2eec500a07493cc46b3ee831b6dbe"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2b697d89a84b1c28698d4c3e92d0e907",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19
+    },
+    "text": "Dr. Max pharmacy chain operating in Central and Southern Europe",
+    "type": "Title"
+  },
+  {
+    "element_id": "c2aa4dea3f6c53014e590d4b5d1c39c3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "2b697d89a84b1c28698d4c3e92d0e907"
+    },
+    "text": "A new customer relationship manager (CRM) • A loyalty programme which currently has 2.5 million clients in the Czech Republic and Slovakia • The launch of an omni-channel sales platform • Dynamic pricing (implemented with Simon Kutcher)",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "2b697d89a84b1c28698d4c3e92d0e907"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7bbe66feae15870b11b091dbd8234b80",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "2b697d89a84b1c28698d4c3e92d0e907"
+    },
+    "text": "Fortuna, the leading sports betting and gaming operator in Central Europe",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "db5092343a1c3c65c7c36139a6ffad0d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "2b697d89a84b1c28698d4c3e92d0e907"
+    },
+    "text": "An online customer lifecycle manager (CLM) • New mobile and online gaming platform • Revamped online organisation units",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "b17ef6d19c7a5b1ee83b907c595526dc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "parent_id": "2b697d89a84b1c28698d4c3e92d0e907"
+    },
+    "text": "16",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "2b697d89a84b1c28698d4c3e92d0e907"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c7bf015ad98ca9d54ad9f0fc39ddfef8",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20
+    },
+    "text": "Digital Initiatives",
+    "type": "Title"
+  },
+  {
+    "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "c7bf015ad98ca9d54ad9f0fc39ddfef8"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f70edaffc6df29ba1f6f44d87d9556ab",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "c7bf015ad98ca9d54ad9f0fc39ddfef8"
+    },
+    "text": "Dôvera, private health insurance company in Slovakia. • A Diagnosis-Related Group system (DRG) • A new instrument for uncovering fraud, electronic communication of patients‘ laboratory and",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d884ac094340c63dd962519f4b78eb83",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20
+    },
+    "text": "diagnostic results",
+    "type": "Title"
+  },
+  {
+    "element_id": "a75aeb1a2e6a0252707ed7aa1b3f15ed",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "d884ac094340c63dd962519f4b78eb83"
+    },
+    "text": "Launched telemedicine in cooperation with ProCare and Svet Zdravia, managing the treatment of",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "bfe8709c5de6246ea518527051d2a62f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20
+    },
+    "text": "chronically sick patients",
+    "type": "Title"
+  },
+  {
+    "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "bfe8709c5de6246ea518527051d2a62f"
+    },
+    "text": "4",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a010dd7c960f20b2873b96fc21a0ec9e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "bfe8709c5de6246ea518527051d2a62f"
+    },
+    "text": "Empik, rated the number four e-commerce player in Poland:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "cec9e068e6dd74d958a677592585c139",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "bfe8709c5de6246ea518527051d2a62f"
+    },
+    "text": "Opening Empik.com for business partners • Developing a customer bonus programme • Launching Empik Go! digital content and audio",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "4523540f1504cd17100c4835e85b7eef",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "parent_id": "bfe8709c5de6246ea518527051d2a62f"
+    },
+    "text": "17",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "parent_id": "bfe8709c5de6246ea518527051d2a62f"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "25a4f2481ca1856356088897ff8bbc68",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21
+    },
+    "text": "Blank page for the summary audit report",
+    "type": "Title"
+  },
+  {
+    "element_id": "4ec9599fc203d176a301536c2e091a19",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "parent_id": "25a4f2481ca1856356088897ff8bbc68"
+    },
+    "text": "18",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "25a4f2481ca1856356088897ff8bbc68"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0dbead2f6f19a8d64117ea48baa10a13",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Summary Financial Results",
+    "type": "Title"
+  },
+  {
+    "element_id": "3e77d4b9378a447330c72b18c20b97f0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "0dbead2f6f19a8d64117ea48baa10a13"
+    },
+    "text": "Summary Consolidated Statement of Comprehensive Income for the year ended 31 December 2016",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "af26fc6951a412819e481e5bef54333a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "0dbead2f6f19a8d64117ea48baa10a13"
+    },
+    "text": "(EUR ‘000)",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2f9ff25c1f2c120845ca5f357ec88aa6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "0dbead2f6f19a8d64117ea48baa10a13"
+    },
+    "text": "31-Dec-16",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d56cf4dd3a29b9bb3c7f00b6e511cad0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Total net income",
+    "type": "Title"
+  },
+  {
+    "element_id": "2ec655178f9657d42081e57c352855d2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "d56cf4dd3a29b9bb3c7f00b6e511cad0"
+    },
+    "text": "457,779",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "de15203ed4c1aa0dc5d6e72162526360",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Management fee",
+    "type": "Title"
+  },
+  {
+    "element_id": "dd01e8277353504ec6ab77f133dfb6d7",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "de15203ed4c1aa0dc5d6e72162526360"
+    },
+    "text": "23,666",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "ca25c3bd02fb3134bd3c2f281d3ab42f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Legal and professional fee",
+    "type": "Title"
+  },
+  {
+    "element_id": "2fa547c5c508b2d267c0490df4a447b7",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "ca25c3bd02fb3134bd3c2f281d3ab42f"
+    },
+    "text": "2,082",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "8d375cf423c1e6983a9d56df1438d50a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Impairment losses of receivables, net of reversals",
+    "type": "Title"
+  },
+  {
+    "element_id": "5f4e6172b40053a78b00cc282eba38be",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "8d375cf423c1e6983a9d56df1438d50a"
+    },
+    "text": "33,171",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "bf96542e84ebcedffd1bbdc09aa7bf84",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "8d375cf423c1e6983a9d56df1438d50a"
+    },
+    "text": "Carried interest charge",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e381408af9fd5a9e24ebff4399a45725",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "8d375cf423c1e6983a9d56df1438d50a"
+    },
+    "text": "91,556",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "840b0ba2e8b122312f6dcd59adb4c19d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "8d375cf423c1e6983a9d56df1438d50a"
+    },
+    "text": "Change in fair value of financial liabilities at fair value through profit or loss",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0b87e9078b138595068df0bea28c8127",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "8d375cf423c1e6983a9d56df1438d50a"
+    },
+    "text": "21,289",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "71c31090776d124de6d91bdb7a343faa",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Other operating expenses",
+    "type": "Title"
+  },
+  {
+    "element_id": "daa2a7e109392b18354da41f9d646a7a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "71c31090776d124de6d91bdb7a343faa"
+    },
+    "text": "3,683",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "d796108ad4874e063a69fca8095382ff",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Total operating expenses",
+    "type": "Title"
+  },
+  {
+    "element_id": "8e1313573417eda922105eda81fefe94",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "d796108ad4874e063a69fca8095382ff"
+    },
+    "text": "175,447",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "7b5909aa57b425e991990c1381bf8336",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Operating gain",
+    "type": "Title"
+  },
+  {
+    "element_id": "41d63d63e54e82a0db460147d6f5c676",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "7b5909aa57b425e991990c1381bf8336"
+    },
+    "text": "282,332",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "abba9987e85da6a0f377321ebf6b69d0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Interest expense, net",
+    "type": "Title"
+  },
+  {
+    "element_id": "9fea54edb55ab99999253530a9470de9",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "abba9987e85da6a0f377321ebf6b69d0"
+    },
+    "text": "26,226",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "776181a72f485b973bdf0637fef2ec9d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Other income, net",
+    "type": "Title"
+  },
+  {
+    "element_id": "a60876891570cd7003c50a2e79d0009b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "776181a72f485b973bdf0637fef2ec9d"
+    },
+    "text": "4,155",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "65ca173db7fea34862d73074541c7949",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Total other loss, net",
+    "type": "Title"
+  },
+  {
+    "element_id": "7d31ac3e91b72e28503944c17944ff47",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "65ca173db7fea34862d73074541c7949"
+    },
+    "text": "30,381",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "3c17aac7fecd39120a3ee35bc0da1fb4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Profit before tax",
+    "type": "Title"
+  },
+  {
+    "element_id": "5b7ebf5b6abec465320a1a44e04c22a8",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "3c17aac7fecd39120a3ee35bc0da1fb4"
+    },
+    "text": "251,951",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "de2ae4a1b30517c4046d19aa6cd4759a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Income tax",
+    "type": "Title"
+  },
+  {
+    "element_id": "ba0a9a618de75b22563ff97ce123dfe8",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "de2ae4a1b30517c4046d19aa6cd4759a"
+    },
+    "text": "1,346",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "17e4c8b0af6f1f48dc481c789c98a964",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Profit after tax",
+    "type": "Title"
+  },
+  {
+    "element_id": "0665d245f7e185dedef12315a7fa12db",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "17e4c8b0af6f1f48dc481c789c98a964"
+    },
+    "text": "250,605",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "78e1e1b61a5cf16229e3a3502cb382ae",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "OTHER COMPREHENSIVE INCOME",
+    "type": "Title"
+  },
+  {
+    "element_id": "b0289db0360b5119e3e890a7256e4433",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "78e1e1b61a5cf16229e3a3502cb382ae"
+    },
+    "text": "Exchange difference on translating foreign operations",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "78e1e1b61a5cf16229e3a3502cb382ae"
+    },
+    "text": "1",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "117251e3402850784b0fad2bca5ee78a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22
+    },
+    "text": "Total comprehensive income",
+    "type": "Title"
+  },
+  {
+    "element_id": "7df8e9671c0cd6bab98f8c056eb71331",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "250,604",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "33237168977ad70b78e16a5cbdb9d306",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "The information on pages 19 to 21 were derived from the audited annual and unqualified consolidated financial statements of Penta Investments Limited, which were approved by the Board of Directors on 23rd March 2017 and signed on its behalf by Mr Radoslav Zuberec. These summary financial statements do not contain sufficient information to allow a full understanding of the results and state of affairs of the group as would be provided by the full annual financial statements.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "9400f1b21cb527d7fa3d3eabba93557a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "19",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "954749ea575a105d05ee6a64c27ad7a0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "31-Dec-15",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7e9953b1ae6f2d23cfd78afde4a9bcb0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "320,329",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5a913d9328a48a3bdb5b3f8880cd34ad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "20,809",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "f1239cefa478748eeccfebadb3b3ffc6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "1,678",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "78fb21897afcf2634453a1c209ac279b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "3,180",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "edcca43fb99dc0be3690ebfa085b9d66",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "64,066",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "1158e7e12c5e7362318e5e3c2e1f2f1a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "501",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c701eb61bb001de5c499c2ae30c7fd9e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "3,974",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "87050b50c1481e99a0173d31d55f95ec",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "93,206",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "6a4b651248cfa5ac173ba301969f7581",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "227,123",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "8103a5627376e8bd1492fe8886b09221",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "21,924",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "d6f24c5ce38c61f2c880f64974833acc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "4,936",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "119daa5df7204f64e4d8206cd86d6510",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "26,860",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "2879d35124d547c783bd94de3dda1053",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "200,263",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "835d5e8314340ab852a2f979ab4cd53e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "232",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "ab0bbacd276045cd7d2728172de200f5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "200,031",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "2",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "d2cc95943e73fa7dbb9cfb45392c4a4c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "200,029",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "117251e3402850784b0fad2bca5ee78a"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4224ff395858fdc7d6c16155af40bc39",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Summary Consolidated Statement 0f Financial Position as at 31 December 2016",
+    "type": "Title"
+  },
+  {
+    "element_id": "af26fc6951a412819e481e5bef54333a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "4224ff395858fdc7d6c16155af40bc39"
+    },
+    "text": "(EUR ‘000)",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2f9ff25c1f2c120845ca5f357ec88aa6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "4224ff395858fdc7d6c16155af40bc39"
+    },
+    "text": "31-Dec-16",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "954749ea575a105d05ee6a64c27ad7a0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "4224ff395858fdc7d6c16155af40bc39"
+    },
+    "text": "31-Dec-15",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f5476433111a9787f5493a5bacc73846",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "ASSETS",
+    "type": "Title"
+  },
+  {
+    "element_id": "784d8c8a5ebd0ac150155b526e33d5dc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Non Current Assets",
+    "type": "Title"
+  },
+  {
+    "element_id": "f8022a1e2978ad31d64831a52818b960",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Financial assets at fair value through profit or loss",
+    "type": "Title"
+  },
+  {
+    "element_id": "c51c326925db38563fe13a6664810445",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "f8022a1e2978ad31d64831a52818b960"
+    },
+    "text": "2,427,786",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c0893ed98da1427edd439556e5257c8f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "f8022a1e2978ad31d64831a52818b960"
+    },
+    "text": "1,990,275",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d59f3197ee24d588228c5fd9653b465e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Property and equipment",
+    "type": "Title"
+  },
+  {
+    "element_id": "3f9807cb9ae9fb6c30942af6139909d2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "d59f3197ee24d588228c5fd9653b465e"
+    },
+    "text": "164",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7b69759630f869f2723875f873935fed",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "d59f3197ee24d588228c5fd9653b465e"
+    },
+    "text": "180",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7363efeadc49c5072c36773e524973ba",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Intangible assets",
+    "type": "Title"
+  },
+  {
+    "element_id": "8c1f1046219ddd216a023f792356ddf1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "7363efeadc49c5072c36773e524973ba"
+    },
+    "text": "99",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d6e5a20b30f87216b2c758f5e7a23c43",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "7363efeadc49c5072c36773e524973ba"
+    },
+    "text": "252",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "6e2fe9a27e8b36d059171e7e028595a5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Loans and advances",
+    "type": "Title"
+  },
+  {
+    "element_id": "00a5fea5247a72af50b650f8c73fa6a0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "6e2fe9a27e8b36d059171e7e028595a5"
+    },
+    "text": "23,803",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "cb94f3b1c54ee3acf3456a4f23fd6af2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "6e2fe9a27e8b36d059171e7e028595a5"
+    },
+    "text": "46,836",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9dec9ad9abdbab48405a8b379c52e058",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Other financial assets",
+    "type": "Title"
+  },
+  {
+    "element_id": "afccd937e6ac2d1b6d6e9f318bc5e8a1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "9dec9ad9abdbab48405a8b379c52e058"
+    },
+    "text": "760",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "09342e4b0f5696a984946a38d86f785a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "9dec9ad9abdbab48405a8b379c52e058"
+    },
+    "text": "1,019",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "dcce7a83489f0a083a25929ed95413bc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "9dec9ad9abdbab48405a8b379c52e058"
+    },
+    "text": "2,452,612",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "8bafcf13b72dc39b13511fbe4ddeca7a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "9dec9ad9abdbab48405a8b379c52e058"
+    },
+    "text": "2,038,562",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "38aa958a6ecad4d04946ad0c7f00d6c9",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Current Assets",
+    "type": "Title"
+  },
+  {
+    "element_id": "f8022a1e2978ad31d64831a52818b960",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Financial assets at fair value through profit or loss",
+    "type": "Title"
+  },
+  {
+    "element_id": "3efdd30546e9f65fbab1e8bcb869cb15",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "f8022a1e2978ad31d64831a52818b960"
+    },
+    "text": "10,722",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "be3f4bbf952f833eabc1a5a3e2af9064",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "f8022a1e2978ad31d64831a52818b960"
+    },
+    "text": "68,814",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "6e2fe9a27e8b36d059171e7e028595a5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Loans and advances",
+    "type": "Title"
+  },
+  {
+    "element_id": "96c546b68f8d20fc00ec63503f2fc304",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "6e2fe9a27e8b36d059171e7e028595a5"
+    },
+    "text": "4,638",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7bcaef489b35cf28b1e59ca7444419cb",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "6e2fe9a27e8b36d059171e7e028595a5"
+    },
+    "text": "4,555",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9dec9ad9abdbab48405a8b379c52e058",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Other financial assets",
+    "type": "Title"
+  },
+  {
+    "element_id": "4fc82b26aecb47d2868c4efbe3581732",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "9dec9ad9abdbab48405a8b379c52e058"
+    },
+    "text": "11",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "8dcad294dba3423d083d4a082d28ef9b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "9dec9ad9abdbab48405a8b379c52e058"
+    },
+    "text": "4,825",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a9414dbcc7124b89953578205d2659bd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Trade and other receivables",
+    "type": "Title"
+  },
+  {
+    "element_id": "25dac95b8f595046bc435139636b0e2f",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a9414dbcc7124b89953578205d2659bd"
+    },
+    "text": "387",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "01299ac65733b5a3d774265fbfe8396b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a9414dbcc7124b89953578205d2659bd"
+    },
+    "text": "374",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4a6d36f685ad2cccb0ce5cfeb6419688",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Cash and cash equivalents",
+    "type": "Title"
+  },
+  {
+    "element_id": "3eed6263d676f035abbfb61fb2b5a5b3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "4a6d36f685ad2cccb0ce5cfeb6419688"
+    },
+    "text": "30,027",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "6ab3a2264c2f1eec63d24ab890cfe393",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "4a6d36f685ad2cccb0ce5cfeb6419688"
+    },
+    "text": "44,071",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "e6e3d9e14501bc71354dc84a6399fa34",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "4a6d36f685ad2cccb0ce5cfeb6419688"
+    },
+    "text": "45,785",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "778fb6a334b1dd627d7b7180866c259d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "4a6d36f685ad2cccb0ce5cfeb6419688"
+    },
+    "text": "122,639",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "100c02b046b481de73d5382d0d436847",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "TOTAL ASSETS",
+    "type": "Title"
+  },
+  {
+    "element_id": "442ed83129e3d0abf9be40ed8a6df89a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "100c02b046b481de73d5382d0d436847"
+    },
+    "text": "2,498,397",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2f2d3617d04eefd3b1e5ac63cf092d48",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "100c02b046b481de73d5382d0d436847"
+    },
+    "text": "2,161,201",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5fad7a3e0b6f1deecf0b34501a3a664b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "EQUITY AND LIABILITIES",
+    "type": "Title"
+  },
+  {
+    "element_id": "2853bb928d052d8d61f5d74b560854cd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Capital and reserves",
+    "type": "Title"
+  },
+  {
+    "element_id": "23295126348f0b222fd5a6bd4e3c19d4",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Share capital",
+    "type": "Title"
+  },
+  {
+    "element_id": "eaba2fc8b501189b8e9abfa2e0feab57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "23295126348f0b222fd5a6bd4e3c19d4"
+    },
+    "text": "2,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "eaba2fc8b501189b8e9abfa2e0feab57",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "23295126348f0b222fd5a6bd4e3c19d4"
+    },
+    "text": "2,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2804c330f74c845fd832cf819613e621",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Share premium",
+    "type": "Title"
+  },
+  {
+    "element_id": "17d48790d225dd663a4cbdbf5257a178",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "2804c330f74c845fd832cf819613e621"
+    },
+    "text": "802,218",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "51dd8635e49a59d91ee516e25d3dd345",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "2804c330f74c845fd832cf819613e621"
+    },
+    "text": "803,076",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c73521198f979278b81b30f8f49822f7",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "2804c330f74c845fd832cf819613e621"
+    },
+    "text": "Retained earnings and other reserves",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8e37b1c5abc55decab39ff3319681655",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "2804c330f74c845fd832cf819613e621"
+    },
+    "text": "683,962",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7baa7151d5d10b100f29237b4592af99",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "2804c330f74c845fd832cf819613e621"
+    },
+    "text": "586,103",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "b77cb9ecb0918b6d88b34c49f0499270",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Total equity",
+    "type": "Title"
+  },
+  {
+    "element_id": "6821a5f87a1108c590c7c117d3e66313",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "b77cb9ecb0918b6d88b34c49f0499270"
+    },
+    "text": "1,488,180",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "e16d7b952297cdcc67c9237e2e4a3d9e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "b77cb9ecb0918b6d88b34c49f0499270"
+    },
+    "text": "1,391,179",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9671cee2e4b61276760317ba1b5b75c7",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Non-current liabilities",
+    "type": "Title"
+  },
+  {
+    "element_id": "e4c2af1909c99d23027ac1fbdead7064",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Finanical liabilities at fair value through profit or loss",
+    "type": "Title"
+  },
+  {
+    "element_id": "e28ef4dcc7eaad97d0f1be8a297b51c5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "e4c2af1909c99d23027ac1fbdead7064"
+    },
+    "text": "124,570",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "14c833affd939f70c83c97eb12d67e35",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "e4c2af1909c99d23027ac1fbdead7064"
+    },
+    "text": "55,430",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "55acf3c858051f84f121a93007e94d65",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Borrowings",
+    "type": "Title"
+  },
+  {
+    "element_id": "dabc563d138ad13cfc7aae6fe54ff3f2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "55acf3c858051f84f121a93007e94d65"
+    },
+    "text": "257,720",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "8ef29a6230c1be1e6dc2509a3c7eca7b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "55acf3c858051f84f121a93007e94d65"
+    },
+    "text": "237,816",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a29ba57034fa2d8b9da439d1e36a535a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Other liabilities",
+    "type": "Title"
+  },
+  {
+    "element_id": "313c938e0103b56b43632b702e3e6344",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a29ba57034fa2d8b9da439d1e36a535a"
+    },
+    "text": "812",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d72a11d264e746464ed45f73e1ec058e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a29ba57034fa2d8b9da439d1e36a535a"
+    },
+    "text": "808",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5ca500b3fecbe5888e8e7778579f88a2",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a29ba57034fa2d8b9da439d1e36a535a"
+    },
+    "text": "383,102",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "907b7fb076847be2f4f7fcbb4b33de4a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a29ba57034fa2d8b9da439d1e36a535a"
+    },
+    "text": "294,054",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5dfa26011465aa79cbad24bcecc50037",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Current liabilities",
+    "type": "Title"
+  },
+  {
+    "element_id": "58efb55d46cf77596603607e14d59053",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "5dfa26011465aa79cbad24bcecc50037"
+    },
+    "text": "Carried interest",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e381408af9fd5a9e24ebff4399a45725",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "5dfa26011465aa79cbad24bcecc50037"
+    },
+    "text": "91,556",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "edcca43fb99dc0be3690ebfa085b9d66",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "5dfa26011465aa79cbad24bcecc50037"
+    },
+    "text": "64,066",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "55acf3c858051f84f121a93007e94d65",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Borrowings",
+    "type": "Title"
+  },
+  {
+    "element_id": "4615ae60eddb6b98a9ae95bfb0adb384",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "55acf3c858051f84f121a93007e94d65"
+    },
+    "text": "530,964",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0f28cabddff71d600e0cb359c3d8696b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "55acf3c858051f84f121a93007e94d65"
+    },
+    "text": "409,994",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a29ba57034fa2d8b9da439d1e36a535a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Other liabilities",
+    "type": "Title"
+  },
+  {
+    "element_id": "0c733ae74db3d0188b5c22275e4e4d4c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a29ba57034fa2d8b9da439d1e36a535a"
+    },
+    "text": "1,241",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4a44dc15364204a80fe80e9039455cc1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a29ba57034fa2d8b9da439d1e36a535a"
+    },
+    "text": "10",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0ad8ec10e9d6b8f7c77120e1480bc53e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Trade and other creditors",
+    "type": "Title"
+  },
+  {
+    "element_id": "243ae0f7c003e48e9e81ecd4595e0b3b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0ad8ec10e9d6b8f7c77120e1480bc53e"
+    },
+    "text": "3,354",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5d8810d4cfae6cfd100f3242d2a98c6d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0ad8ec10e9d6b8f7c77120e1480bc53e"
+    },
+    "text": "1,898",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "6adca806d6bc0eaa3b7293dd0316fad7",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0ad8ec10e9d6b8f7c77120e1480bc53e"
+    },
+    "text": "627,115",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "bc8ce0e8704994d60cb04ebc0337d0df",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0ad8ec10e9d6b8f7c77120e1480bc53e"
+    },
+    "text": "475,968",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a3a587cb3bb28eb82d19c792c98a60a9",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "Total liabilities",
+    "type": "Title"
+  },
+  {
+    "element_id": "00afcb7ead5fb66f3116c9c0b74513f9",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a3a587cb3bb28eb82d19c792c98a60a9"
+    },
+    "text": "1,010,217",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a5cec9433b40b9859d8145ea524333fd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "a3a587cb3bb28eb82d19c792c98a60a9"
+    },
+    "text": "770,022",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0dd92c80c1924da3499ef3d20b39f0d6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23
+    },
+    "text": "TOTAL EQUITY AND LIABILITIES",
+    "type": "Title"
+  },
+  {
+    "element_id": "442ed83129e3d0abf9be40ed8a6df89a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0dd92c80c1924da3499ef3d20b39f0d6"
+    },
+    "text": "2,498,397",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2f2d3617d04eefd3b1e5ac63cf092d48",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0dd92c80c1924da3499ef3d20b39f0d6"
+    },
+    "text": "2,161,201",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "33237168977ad70b78e16a5cbdb9d306",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0dd92c80c1924da3499ef3d20b39f0d6"
+    },
+    "text": "The information on pages 19 to 21 were derived from the audited annual and unqualified consolidated financial statements of Penta Investments Limited, which were approved by the Board of Directors on 23rd March 2017 and signed on its behalf by Mr Radoslav Zuberec. These summary financial statements do not contain sufficient information to allow a full understanding of the results and state of affairs of the group as would be provided by the full annual financial statements.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "f5ca38f748a1d6eaf726b8a42fb575c3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "parent_id": "0dd92c80c1924da3499ef3d20b39f0d6"
+    },
+    "text": "20",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "parent_id": "0dd92c80c1924da3499ef3d20b39f0d6"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "79c4427112a860485006c4c00b04d94e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24
+    },
+    "text": "General Information",
+    "type": "Title"
+  },
+  {
+    "element_id": "19a13d8d7d69a1e6fac645de6d0abe9a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "parent_id": "79c4427112a860485006c4c00b04d94e"
+    },
+    "text": "The consolidated financial statements of Penta Investments Limited (the “Company”) and its subsidiaries (“the Group”) for the year ended 31 December 2016 were authorized for issue by the Company’s Board of Directors’ on 23 March 2017. The Company was incorporated in Jersey on 13 December 2011 as a private limited liability company in accordance with the provisions of Companies (Jersey) Law 1991.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "52373a5eb8af01efff20f91479e04300",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "parent_id": "79c4427112a860485006c4c00b04d94e"
+    },
+    "text": "The Group is ultimately controlled by Penta Investment Group Limited which holds 100% (2015: 100%) of the shares of the Company.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "307a42759b87540cc15778335e1c5ddc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24
+    },
+    "text": "BASIS OF PREPARATION",
+    "type": "Title"
+  },
+  {
+    "element_id": "f02bfc73188b22e5f315840599f5d054",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "parent_id": "307a42759b87540cc15778335e1c5ddc"
+    },
+    "text": "The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB).",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "33bc94a61cdf5fa08893cbb09b5e7f0e",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "parent_id": "307a42759b87540cc15778335e1c5ddc"
+    },
+    "text": "The consolidated financial statements have been prepared on a historical cost basis as modified by the revaluation of financial assets and financial liabilities at fair value through profit or loss. The consolidated financial statements are presented in euros and all values are rounded to the nearest thousand (EUR’000), except when otherwise indicated.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "33237168977ad70b78e16a5cbdb9d306",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "parent_id": "307a42759b87540cc15778335e1c5ddc"
+    },
+    "text": "The information on pages 19 to 21 were derived from the audited annual and unqualified consolidated financial statements of Penta Investments Limited, which were approved by the Board of Directors on 23rd March 2017 and signed on its behalf by Mr Radoslav Zuberec. These summary financial statements do not contain sufficient information to allow a full understanding of the results and state of affairs of the group as would be provided by the full annual financial statements.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6f4b6612125fb3a0daecd2799dfd6c9c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "parent_id": "307a42759b87540cc15778335e1c5ddc"
+    },
+    "text": "21",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "b450645debe2cf0a590edd7f78d36ecc",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "Contacts",
+    "type": "Title"
+  },
+  {
+    "element_id": "96007f1995e30142c1bea8557c5dfed9",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "JERSEY",
+    "type": "Title"
+  },
+  {
+    "element_id": "9bf8d9d08da521d3ee9875197bbfbc3c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "96007f1995e30142c1bea8557c5dfed9"
+    },
+    "text": "Penta Investments Limited 3rd Floor, Osprey House 5 / 7 Old Street St. Helier, JE2 3RG",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "957d6f1026632b96fa56011eb92d9870",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "Phone sthelier@pentainvestments.com",
+    "type": "Title"
+  },
+  {
+    "element_id": "b9765ced7658df4b0cc3e4d0d037709c",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "957d6f1026632b96fa56011eb92d9870"
+    },
+    "text": "+44 1534 828717",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "fce097ae0a04c8217326d005bb2f85d3",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "CYPRUS",
+    "type": "Title"
+  },
+  {
+    "element_id": "18414579820a0361ece16455288600b0",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "fce097ae0a04c8217326d005bb2f85d3"
+    },
+    "text": "Penta Investments Cyprus Limited Agias Fylaxeos & Polygnostou, 212 C&I CENTER, 2nd Floor 3082 Limassol",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a6bd3fca566b974c4d239ab037abfdc5",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "Phone limassol@pentainvestments.com",
+    "type": "Title"
+  },
+  {
+    "element_id": "6f362f899c4d2ae317abd02898701a7a",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "a6bd3fca566b974c4d239ab037abfdc5"
+    },
+    "text": "+357 25733104",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "42ea06834cca8da6183dae82a67bf85d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "NETHERLANDS",
+    "type": "Title"
+  },
+  {
+    "element_id": "05569247220c5f9d9870257328380490",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "42ea06834cca8da6183dae82a67bf85d"
+    },
+    "text": "Penta Investments, B.V. Strawinskylaan 1223 World Trade Center, Tower A /Level 12 1077 XX Amsterdam",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d95f5927980fa49368942366a16405af",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "42ea06834cca8da6183dae82a67bf85d"
+    },
+    "text": "Phone +31 2 03 33 11 66 amsterdam@pentainvestments.com",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "785f3ec7eb32f30b90cd0fcf3657d388",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "42ea06834cca8da6183dae82a67bf85d"
+    },
+    "text": "22",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "85a1fa129b69dd9455967007d8f2ec50",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "42ea06834cca8da6183dae82a67bf85d"
+    },
+    "text": "A N N U A L R E P O R T & S U M M A R Y F I N A N C I A L R E S U L T S 2 0 1 6",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "20bdce0268abc097b0bf45a65cf12714",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "SLOVAK REPUBLIC",
+    "type": "Title"
+  },
+  {
+    "element_id": "35c059cc086246b46d7b4801967bfb32",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "20bdce0268abc097b0bf45a65cf12714"
+    },
+    "text": "Penta Investments, s. r. o. Digital Park II Einsteinova 25 851 01 Bratislava",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "00c813ea4b93b33648d1e3b3eb5948b1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "20bdce0268abc097b0bf45a65cf12714"
+    },
+    "text": "Phone +421 2 57788 111 bratislava@pentainvestments.com",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "944f6693e2fbb504a699061f0802441d",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "CZECH REPUBLIC",
+    "type": "Title"
+  },
+  {
+    "element_id": "59f53b0f2a3c7fb2ae7323d1d53e799b",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "944f6693e2fbb504a699061f0802441d"
+    },
+    "text": "Penta Investments, s.r.o. Florentinum Na Florenci 2116/15 110 00 Prague 1",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "57474925f8cd5410e058645e9526f914",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "Phone prague@pentainvestments.com",
+    "type": "Title"
+  },
+  {
+    "element_id": "bb7dd0a0bfa9061030089bd070ff2a96",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "57474925f8cd5410e058645e9526f914"
+    },
+    "text": "+420 225 101 110",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "5f76b89d8549debd3b29db451d31bfb6",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25
+    },
+    "text": "POLAND",
+    "type": "Title"
+  },
+  {
+    "element_id": "900f35b5d7469599c4048d73fd3cfdbd",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "5f76b89d8549debd3b29db451d31bfb6"
+    },
+    "text": "Penta Investments sp. z o.o. Nowogrodzka 21 00-511 Warsaw",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "1ce3d7db3f38caf385b0fa3c1d39d9e1",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "5f76b89d8549debd3b29db451d31bfb6"
+    },
+    "text": "Phone warsaw@pentainvestments.com",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "5a5dc60db7ea15404aa882ba58b05dad",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "parent_id": "5f76b89d8549debd3b29db451d31bfb6"
+    },
+    "text": "+48 22 502 32 22",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "parent_id": "5f76b89d8549debd3b29db451d31bfb6"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "d07e0247c384e6f4d739e38aa9913792",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "parent_id": "5f76b89d8549debd3b29db451d31bfb6"
+    },
+    "text": "P E N T A I N V E S T M E N T S L I M I T E D",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "535fa30d7e25dd8a49f1536779734ec8",
+    "metadata": {
+      "filename": "penta-vyrocni-zprava-2016.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "parent_id": "5f76b89d8549debd3b29db451d31bfb6"
+    },
+    "text": "23",
+    "type": "UncategorizedText"
+  }
+]
